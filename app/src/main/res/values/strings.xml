@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic Dyce</string>
+    <string name="title_activity_magic_dyce">MagicDyceActivity</string>
+    <string name="_20_sided_dice">20 sided dice</string>
+    <string name="_6_sided_dice">6 sided dice</string>
+    <string name="choose_your_dice">Choose your dice</string>
+</resources>
